@@ -2,6 +2,7 @@
 ### javajam
 > [!IMPORTANT]
 > 'id=' attributes within jobs.html are my own names. It might not correspond to the website given for the POST method. The id we should use wasn't mentioned in the worksheet's requirements.
+
 > [!NOTE]
 > No additional 'class'es are added within. I am afraid it might deviate from what's intentioned. Perhaps we'll get css in another session? I don't want to edit my html all over.
 NIM: 2802503791
