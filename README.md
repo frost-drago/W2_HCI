@@ -1,3 +1,5 @@
+NIM: 2802503791
+
 # Assignment
 ### javajam
 > [!IMPORTANT]
@@ -5,7 +7,7 @@
 
 > [!NOTE]
 > No additional 'class'es are added within. I am afraid it might deviate from what's intentioned. Perhaps we'll get css in another session? I don't want to edit my html all over.
-NIM: 2802503791
+
 # Another assignment (?)
 These are from https://www.freecodecamp.org/learn/2022/responsive-web-design/
 ### FreeCodeCamp - Cat
